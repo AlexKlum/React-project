@@ -1,0 +1,43 @@
+.header {
+	display: flex;
+	flex-direction: row;
+	background-color: #c4c4c4;
+	padding-left: 22px;
+	height: auto;
+   padding: 5px;
+}
+.headerLogo {
+	background-color: #ffffff;
+	font-size: 40px;
+   float: left;
+   border-radius: 100px;
+   width: 80px;
+   height: 80px;
+}
+
+
+.navLinks {
+   display: flex;
+}
+
+.navLinks li {
+   list-style-type: none;
+   flex-direction: row;
+   margin-top: 30px;
+   margin-left: 30px;
+}
+
+.navLinks li a {
+   color: #131313;
+   
+   -webkit-text-stroke: 0.5px;
+   -webkit-text-stroke-color: rgb(0, 0, 0);
+   font-size: 32px;
+}
+
+#cucumberLogo {
+	height: auto;
+	width: 65px;
+   padding-top: 6px;
+   
+}

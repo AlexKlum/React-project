@@ -1,0 +1,594 @@
+
+{
+   "title": "Toast skagen",
+   "description": "Gott till champagne",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_223427/cf_259/korvstroganoff_med_ris.jpg",
+   "timeInMins": 15,
+   "categories": [ "Förrätt", "Skaldjur", "Smaskigt" ],
+   "instructions": [ "Stek brödet ",
+      "Lägg på röran",
+      "Toppa med Dill",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet ",
+      "Stek brödet "],
+   "ingredients": [
+       {
+           "name": "Salt",
+           "amount": 1,
+           "unit": "tsk"
+       },
+       {
+           "name": "Peppar",
+           "amount": 1,
+           "unit": "tsk"
+       },
+       {
+           "name": "Smör",
+           "amount": 100,
+           "unit": "gram"
+       }
+   ]
+}
+
+{
+   "title": "Brownies",
+   "description": "Enkelt recept på mumsiga amerikanska brownies med bland annat mörk choklad, smör, ägg, socker och mjöl. Du blandar i valnötter i chokladkakan vilket ger en njutbar kontrast till den mjuka, sega konsistensen i kakans mitt.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_235809/cf_259/brownies.jpg",
+   "timeInMins": 45,
+   "categories": [ "Bakverk" ],
+   "instructions": [ "Sätt ugnen på 175°C. ",
+      "Smörj en ugnsform ca 20x25 cm, (för 20 st) gärna non-stick. Strö ströbröd i botten av formen. ",
+      "Hacka nötterna grovt. ",
+      "Bryt chokladen i bitar och smält den över vattenbad. Ta kastrullen från värmen och rör ner smöret i små klickar. ",
+      "Vispa ägg, socker och vaniljsocker. Blanda med chokladen. Blanda mjöl, bakpulver och rör ner i chokladen. Rör till en slät smet. Blanda ner nötterna. ",
+      "Häll i smeten i formen och grädda mitt i ugnen 20-25 minuter. Kakan ska vara torr utanpå men lite seg och fuktig inuti. ",
+      "Låt kakan svalna något och dela den sedan i fyrkanter. Förvaras i burk. "],
+   "ingredients": [
+      {
+         "name": "Valnötter",
+         "amount": 1.5,
+         "unit": "dl",
+     },
+     {
+         "name": "Mörk Choklad",
+         "amount": 200,
+         "unit": "gram",
+     },
+     {
+         "name": "Smör",
+         "amount": 50,
+         "unit": "gram",
+     },
+     {
+         "name": "Ägg",
+         "amount": 2,
+         "unit": "st",
+     },
+     {
+         "name": "strösocker",
+         "amount": 2.5,
+         "unit": "dl",
+     },
+     {
+         "name": "Vaniljsocker",
+         "amount": 1,
+         "unit": "tsk",
+     },
+     {
+         "name": "Vetemjöl",
+         "amount": 1.3,
+         "unit": "dl",
+     },
+     {
+         "name": "Bakpulver",
+         "amount": 1,
+         "unit": "krm",
+     }
+   ]
+}
+
+{
+   "title": "Chocolate chip cookies",
+   "description": "Chocolate chip cookies, en klassisk amerikansk kaka med fina chokladbitar i. Använd mörk bakchoklad, smör och farinsocker och dina chokladkakor kommer bli precis så segmjuka inuti som du önskar.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_238872/cf_259/chocolate_chip_cookies.jpg",
+   "timeInMins": 60,
+   "categories": [ "Bakverk" ],
+   "instructions": [ "Sätt ugnen på 175˚C. ",
+      "Grovhacka chokladen. ",
+      "Blanda vetemjöl, bikarbonat, vaniljsocker och majsstärkelse.",
+      "Vispa smör, strösocker och farinsocker fluffigt. Tillsätt ägget och vispa lite till. ",
+      "Tillsätt mjölblandningen. Arbeta snabbt ihop till en deg. Blanda i den grovhackade chokladen. ",
+      "Ställ degen i kylskåpet i ca 20 minuter. ",
+      "Dela degen i 18 lika stora bitar (för 18 st kakor, ca 50 g/bit). Rulla bitarna till bollar. ",
+      "Dela upp bollarna på 2 bakpappersklädda plåtar (för 18 st kakor). ",
+      "Grädda en plåt i taget, mitt i ugnen i ca 15-20 minuter. ",
+      "Ta ut kakorna och låt dem svalna på plåten i 2-3 minuter innan du flyttar över dem på ett galler och låter svalna helt. "],
+   "ingredients": [
+       {
+           "name": "Mörk Choklad",
+           "amount": 200,
+           "unit": "gram"
+       },
+       {
+           "name": "Vetemjöl",
+           "amount": 3.5,
+           "unit": "dl"
+       },
+       {
+           "name": "Bikarbonat",
+           "amount": 1,
+           "unit": "tsk"
+       },
+       {
+         "name": "Vaniljsocker",
+         "amount": 2,
+         "unit": "tsk"
+     },
+     {
+         "name": "Majsstärkelse",
+         "amount": 2,
+         "unit": "tsk"
+      },
+      {
+         "name": "Smör",
+         "amount": 200,
+         "unit": "gram"
+      },
+      {
+         "name": "Strösocker",
+         "amount": 1,
+         "unit": "dl"
+      },
+      {
+         "name": "Brunt Farinsocker",
+         "amount": 1.7,
+         "unit": "dl"
+      },
+      {
+         "name": "Ägg",
+         "amount": 1,
+         "unit": "st"
+      }
+   ]
+}
+
+{
+   "title": "Banankaka",
+   "description": "Banankaka är en god och saftig kaka som många har som favorit bland fikabröd. Banankakans smet består bland annat av sagolik choklad och sötman från mogna bananer. Serveras kall och gärna med glass.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_237734/cf_259/banankaka.jpg",
+   "timeInMins": 60,
+   "categories": [ "Bakverk" ],
+   "instructions": [ "Sätt ugnen på 175°C. ",
+      "Smält smöret i en kastrull. Låt svalna.",
+      "Smörj och bröa en avlång brödform, storlek ca 11 x 25 cm (för 12 bitar).",
+      "Blanda smöret med socker, mjölk, salt, vaniljsocker. Dela äggen och blanda i gulorna. ",
+      "Mosa bananerna och blanda ner i smeten. ",
+      "Hacka blockchokladen. Blanda ihop mjöl, blockchoklad och bikarbonat och vänd ner i smeten. ",
+      "Vispa till sist äggvitorna till hårt skum och vänd ner dem. ",
+      "Häll smeten i formen. ",
+      "Sätt formen mitt i ugnen 50-55 minuter. Den ska vara knappt klar i mitten för att bli extra saftig. ",
+      "Låt kakan svalna och servera gärna med glass och hackade pecannötter. "],
+   "ingredients": [
+      {
+         "name": "Smör",
+         "amount": 75,
+         "unit": "gram"
+      },
+      {
+         "name": "Socker",
+         "amount": 2.5,
+         "unit": "dl"
+      },
+      {
+         "name": "Mjölk",
+         "amount": 2,
+         "unit": "msk"
+      },
+      {
+         "name": "Salt",
+         "amount": 0.2,
+         "unit": "tsk"
+      },
+      {
+         "name": "Vaniljsocker",
+         "amount": 1,
+         "unit": "tsk"
+      },
+      {
+         "name": "Ägg",
+         "amount": 2,
+         "unit": "st"
+      },
+      {
+         "name": "Bananer",
+         "amount": 2,
+         "unit": "st"
+      },
+      {
+         "name": "Choklad",
+         "amount": 100,
+         "unit": "gram"
+      },
+      {
+         "name": "Vetemjöl",
+         "amount": 2.5,
+         "unit": "dl"
+      },
+      {
+         "name": "Bikarbonat",
+         "amount": 1,
+         "unit": "tsk"
+      }
+   ]
+}
+
+{
+   "title": "Grekisk sallad",
+   "description": "Blått hav, solens som lyster, vita hus och en god lunch i Grekland. Ja, det kan du drömma dig bort till när du äter den här klassiska grekiska salladen. Salladen består av ingredienserna som lök, oliver och naturligtvis fetaost.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_215754/cf_259/grekisk_sallad.jpg",
+   "timeInMins": 15,
+   "categories": [ "Mat" ],
+   "instructions": [ "Skala, dela och skiva löken. Dela tomaterna i bitar. Skär gurkan i tärningar.  Dela, kärna ur och skär paprikan i bitar. ",
+      "Lägg upp i en skål eller på ett serveringsfat. Strö över oliverna.",
+      "Blanda vinäger, olivolja och oregano. Ringla dressingen över salladen. Krydda med salt och peppar. Bryt fetaosten i bitar och fördela på salladen.",
+      "Servera salladen med bröd. "],
+   "ingredients": [
+      {
+         "name": "Rödlök",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Kvisttomater",
+         "amount": 4,
+         "unit": "st"
+      },
+      {
+         "name": "Gurka",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Grön Paprika",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Kalamataoliver",
+         "amount": 2,
+         "unit": "dl"
+      },
+      {
+         "name": "Rödvinsvinäger",
+         "amount": 1,
+         "unit": "msk"
+      },
+      {
+         "name": "Olivolja",
+         "amount": 2,
+         "unit": "msk"
+      },
+      {
+         "name": "Oregano",
+         "amount": 1,
+         "unit": "tsk"
+      },
+      {
+         "name": "Fetaost",
+         "amount": 150,
+         "unit": "gram"
+      },
+      {
+         "name": "Salt och Peppar"
+      }
+   ]
+}
+
+{
+   "title": "Gazpacho med tomat- och basilikatoast",
+   "description": "En fräsch gazpacho, alltså en grönsakssoppa som faktiskt serveras kall, kommer här serverad! Blanda ihop en massa grönsaker, men spar några bitar som topping och ät soppan sedan tillsammans med en varm toast med soltorkad tomat crème.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_239194/cf_259/gazpacho_med_tomat-_och_basilikatoast.jpg",
+   "timeInMins": 45,
+   "categories": [ "Mat" ],
+   "instructions": [ "Sätt ugnen på 220°C. ",
+      "Gazpacho: Skala och hacka löken. Dela och kärna ur paprikan, skär den och tomaterna i bitar. Skär gurkan i tärningar och grovhacka basilikan (spara några blad till garnering och toasterna). ",
+      "Mixa hälften av löken och hälften av gurkan med paprika, tomater, pressad vitlök, vinäger, olivolja, socker och salt slätt i en matberedare. Häll i passerade tomater och hälften av basilikan. Späd med kallt vatten. Smaka av med salt och peppar. Låt soppan stå kallt innan servering. ",
+      "Toast: Pressa vitlöken och blanda med tomatcrèmen. Dela bröden och bred tomatcrèmen på dem. Baka av mitt i ugnen ca 7 minuter. Strimla några basilikablad och strö över bröden. ",
+      "Servera soppan med bröden, resten av löken, gurkan och några basilikablad. "],
+   "ingredients": [
+      {
+         "name": "Rödlök",
+         "amount": 0.5,
+         "unit": "st"
+      },
+      {
+         "name": "Gul Paprika",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Plommontomater",
+         "amount": 0.5,
+         "unit": "förpackning"
+      },
+      {
+         "name": "Gurka",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Basilika",
+         "amount": 1,
+         "unit": "kruka"
+      },
+      {
+         "name": "Vitlöksklyfta",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Vitvinsvinäger",
+         "amount": 0.5,
+         "unit": "dl"
+      },
+      {
+         "name": "Olivolja",
+         "amount": 2,
+         "unit": "msk"
+      },
+      {
+         "name": "Strösocker",
+         "amount": 1,
+         "unit": "tsk"
+      },
+      {
+         "name": "Salt",
+         "amount": 1,
+         "unit": "tsk"
+      },
+      {
+         "name": "Passerade Tomater",
+         "amount": 500,
+         "unit": "gram"
+      },
+      {
+         "name": "Kallt Vatten",
+         "amount": 2,
+         "unit": "dl"
+      },
+      {
+         "name": "Kallt Vatten",
+         "amount": 2,
+         "unit": "dl"
+      }
+   ]
+}
+
+{
+   "title": "Fusilli med tomatsås och parmesan",
+   "description": "En god pasta som är perfekt att göra när det behöver vara lite enkelt och gå snabbt, samtidigt som det är supergott. Pasta, tomatsås, parmesan och rucola. Man hör ju att det är ett vinnande koncept.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_236863/cf_259/fusilli_med_tomatsas_och_parmesan.jpg",
+   "timeInMins": 30,
+   "categories": [ "Mat" ],
+   "instructions": [ "Sätt på en kastrull med vatten till pastan. ",
+      "Skala och hacka löken. Riv moroten grovt på ett rivjärn. Fräs lök och morötter i olivoljan i en stekpanna och pressa i vitlöken. Fräs tills allt får lite färg. Tillsätt tomaterna, vatten, timjan, basilika, tomatpuré, chilisås och vinäger. Låt sjuda ca 10 minuter. Smaka av med salt och peppar.",
+      "Koka pastan enligt anvisningen på förpackningen.",
+      "Hacka persiljan. Riv eller hyvla parmesanen och dela tomaterna. ",
+      "Servera pastan med tomatsås, persilja, parmesan, tomater och rucola. "],
+   "ingredients": [
+      {
+         "name": "Gul lök",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Morot",
+         "amount": 1,
+         "unit": "st"
+      },
+      {
+         "name": "Olivolja",
+         "amount": 2,
+         "unit": "msk"
+      },
+      {
+         "name": "Vitlöksklyftor",
+         "amount": 2,
+         "unit": "st"
+      },
+      {
+         "name": "Hela Tomater",
+         "amount": 1,
+         "unit": "Förpackning"
+      },
+      {
+         "name": "Vatten",
+         "amount": 1,
+         "unit": "dl"
+      },
+      {
+         "name": "Torkad Timjan",
+         "amount": 1,
+         "unit": "tsk"
+      },
+      {
+         "name": "Torkad Basilika",
+         "amount": 1,
+         "unit": "tsk"
+      },
+      {
+         "name": "Tomatpure",
+         "amount": 1,
+         "unit": "msk"
+      },
+      {
+         "name": "Chilisås",
+         "amount": 2,
+         "unit": "msk"
+      },
+      {
+         "name": "Balsamvinäger",
+         "amount": 1,
+         "unit": "mks"
+      },
+      {
+         "name": "Bönpasta",
+         "amount": 4,
+         "unit": "portioner"
+      },
+      {
+         "name": "Parmesan",
+         "amount": 100,
+         "unit": "gram"
+      },
+      {
+         "name": "Mini Plommontomater",
+         "amount": 250,
+         "unit": "gram"
+      },
+      {
+         "name": "Ruccola",
+         "amount": 65,
+         "unit": "gram"
+      }
+   ]
+}
+
+{
+   "title": "Mojito",
+   "description": "Mojito är en klassisk och uppskattad drink med en tydlig syrlighet i sig. Drinken tillagas snabbt och enkelt av färsk mynta, limejuice, vit rom, rikligt med is samt sodavatten.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_182630/cf_259/mojito.jpg",
+   "timeInMins": 15,
+   "categories": [ "Drink" ],
+   "instructions": [ "Muddla (krossa i mortel, försiktigt och mjukt) några kvistar färsk mynta med pressad limejuice, sockerlag och vit rom. ",
+      "Fyll upp glaset med sodavatten och lägg i isbitar. Garnera med en myntakvist."],
+   "ingredients": [
+      {
+         "name": "Färsk Mynta"
+      },
+      {
+         "name": "Limejuice",
+         "amount": 2,
+         "unit": "cl"
+      },
+      {
+         "name": "Sockerlag",
+         "amount": 2,
+         "unit": "cl"
+      },
+      {
+         "name": "Vit Rom",
+         "amount": 4,
+         "unit": "cl"
+      },
+      {
+         "name": "Sodavatten"
+      }
+   ]
+}
+
+{
+   "title": "Sangria rosé",
+   "description": "Blanda en frisk vackert rosa alkoholfri bål. Här låter vi tärnad melon i olika färger och lime i skivor marinera i tranbärsdryck. När det väl är drinkdags tillsätts en flaska mousserande rosévin utan alkohol.",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_75633/cf_259/sangria_ros%C3%A9__.jpg",
+   "timeInMins": 60,
+   "categories": [ "Drink" ],
+   "instructions": [ "Skala och skär melonen i tärningar. Skär limen i skivor. ",
+      "Lägg melon och lime i en karaff. Häll på tranbärsdryck.",
+      "Låt dra minst 1 timme, gärna över natten, övertäckt i kyl.",
+      "Vid servering, fyll på med mousserande alkoholfritt rosévin. "],
+   "ingredients": [
+      {
+         "name": "Valfri Melon",
+         "amount": 600,
+         "unit": "gram"
+      },
+      {
+         "name": "Lime",
+         "amount": 2,
+         "unit": "st"
+      },
+      {
+         "name": "Tranbärsdryck",
+         "amount": 5,
+         "unit": "dl"
+      },
+      {
+         "name": "Mousserande Rosévin",
+         "amount": 750,
+         "unit": "ml"
+      }
+   ]
+}
+
+{
+   "title": "Old Cuban",
+   "description": "En bubblig champagnecocktail som sätter feststämningen direkt. En Old Cuban gör du med färsk mynta, limejuice, rom och den kryddiga bittern angostura. Toppa med champagne eller mousserande vitt vin och servera!",
+   "ratings": [2, 3, 4, 1, 2, 3],
+   "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_156934/cf_259/old_cuban.jpg",
+   "timeInMins": 45,
+   "categories": [ "Drink" ],
+   "instructions": [ "Koka socker och vatten tills sockret löses upp. Låt kallna helt. ",
+      "Blanda sockerlagen med mörk rom, limejuice, Angostura bitter, myntablad och isbitar i en stor kanna. Rör om med sked så allt blandas väl.",
+      "Fyll glas till hälften med is och fördela blandningen. Toppa med champagne eller mousserande vitt vin.",
+      "Garnera med mynta och limeskivor. "],
+   "ingredients": [
+      {
+         "name": "Strösocker",
+         "amount": 1,
+         "unit": "dl"
+      },
+      {
+         "name": "Vatten",
+         "amount": 0.6,
+         "unit": "dl"
+      },
+      {
+         "name": "Mörk Rom",
+         "amount": 2.5,
+         "unit": "dl"
+      },
+      {
+         "name": "Limejuice",
+         "amount": 1.2,
+         "unit": "dl"
+      },
+      {
+         "name": "Angostura Bitter",
+         "amount": 0.5,
+         "unit": "tsk"
+      },
+      {
+         "name": "Myntablad",
+         "amount": 1,
+         "unit": "dl"
+      },
+      {
+         "name": "Isbitar",
+         "amount": 0.5,
+         "unit": "liter"
+      },
+      {
+         "name": "Champagne eller Mousserande Vitt Vin",
+         "amount": 3,
+         "unit": "dl"
+      }
+   ]
+}

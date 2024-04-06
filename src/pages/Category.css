@@ -1,0 +1,51 @@
+.homeCard {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+ .homeRecipes {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: auto;
+    height: 160px;
+    margin-top: 20px;
+    border-radius: 5px;
+    position: relative;
+ }
+ 
+ .homeRecipes img {
+    height: 160px;
+    width: 160px;
+    float: left;
+    padding: 5px;
+    border-radius: 10px;
+ }
+ 
+ .homeRecipeName a {
+    color: black;
+    
+ }
+ 
+.foo {
+   margin-left: 50px;
+}
+
+ .homeRecipeName a:hover {
+    text-decoration: underline;
+ }
+
+ .homeRecipeIngredients {
+    margin-left: 280px;
+    margin-bottom: 5px;
+    position: absolute;
+    bottom: 0;
+ }
+ 
+ .info {
+     margin-left: 20px;
+     text-align: left;
+ }
+
+ .searchbar {
+    margin-left: -48px;
+ }

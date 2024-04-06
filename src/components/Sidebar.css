@@ -1,0 +1,49 @@
+.sidebar {
+    position: relative;
+    float: left;
+    display: flex;
+    align-self: flex-start;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 6%;
+    margin-right: -280px;
+    padding-top: 0.4%;
+    padding-right: 4%;
+    background-color: #c4c4c4;
+    width: 242px;
+    height: auto;
+    font-size: 24px;
+    border-radius: .5rem;
+
+}
+
+.kategorier {
+ background-image: linear-gradient(-180deg, #b1b1b1 0%, rgb(151, 151, 151) 100%);
+ border-radius: .5rem;
+ box-sizing: border-box;
+ color: #131313;
+ display: flex;
+ font-size: 24px;
+ justify-content: center;
+ padding: 1rem 3rem;
+ margin-bottom: 2.5%;
+ margin-left: 18%;
+ text-decoration: none;
+ width: 100%;
+ border: 1;
+ border-color: #a7a7a7;
+ cursor: pointer;
+ user-select: none;
+ -webkit-user-select: none;
+ -webkit-text-stroke: 0.1px;
+ -webkit-text-stroke-color: black;
+ touch-action: manipulation;
+}
+
+.kategorier:hover {
+   background-image: linear-gradient(-180deg, #a5a5a5 0%, rgb(113, 113, 113) 100%);
+}
+
+.kategorier:active {
+   background-image: linear-gradient(-180deg, rgb(134, 134, 134) 0%, rgb(100, 100, 100) 100%);
+}

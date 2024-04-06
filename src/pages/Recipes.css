@@ -1,0 +1,111 @@
+
+
+.recipeTitle {
+   width: 400px;
+   height: 50px;
+   margin-top: 30px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.recipeInfoImage {
+   height: auto;
+   width: 900px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   display: flex;
+}
+
+.recipeDescription {
+   background-color: rgb(197, 197, 197);
+   height: auto;
+   width: 400px;
+   font-size: 22px;
+   flex-direction: column;
+   align-self: center;
+   padding: 10px;
+   border-radius: 5px;
+}
+
+.recipeImage {
+   height: auto;
+   width: auto;
+   margin-left: 150px;
+
+}
+
+.recipeImage img {
+   width: 450px;
+   height: auto;
+   border-radius: 10px;
+}
+
+.recipeIngridientsInstruction {
+   height: auto;
+   width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   margin-bottom: 50px;
+   display: flex;
+}
+
+.recipeIngridients {
+background-color: rgb(197, 197, 197);
+width: 250px;
+height: auto;
+font-size: 22px;
+border-radius: 5px;
+flex-direction: column;
+margin-left: 110px;
+}
+
+.recipeInstructions {
+background-color: rgb(197, 197, 197);
+width: 500px;
+height: auto;
+font-size: 22px;
+border-radius: 5px;
+padding: 10px;
+margin-left: 50px;
+}
+
+.recipeRating {
+   
+   width: 600px;
+   height: 200px;
+   margin-top: 50px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 30px;
+   font-size: 20px;
+}
+
+.recipeComments {
+   background-color: coral;
+   height: 300px;
+   width: 900px;
+   margin-left: 265px;
+   margin-bottom: 30px;
+   margin-top: 20px;
+
+}
+
+hr {
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.hr1 {
+   margin-left: 250px;
+   margin-right: 250px;
+}
+
+.foo2 {
+   margin-top: -20px;
+}
+
+.ratingMessage {
+   padding-bottom: 60px;
+}
